@@ -7,8 +7,7 @@
 1. Склонируйте репозиторий.
 2. Откройте `Trucking.sln` в Visual Studio.
 3. Восстановите NuGet-пакеты (ExcelDataReader).
-4. Положите тестовые файлы `org.xlsx`, `beznal.xlsx`, `rkb.xlsx` в папку `[ПапкаСПроектом]/bin/Debug/doc/` (создайте её).
-5. Запустите проект.
+4. Запустите проект.
 
 ## Что демонстрирует этот код:
 *   Работу с Excel-файлами через `ExcelDataReader` и `DataTable`.
